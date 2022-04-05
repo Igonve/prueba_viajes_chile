@@ -3,7 +3,7 @@ body{
     
 }
 
-.box-icon{
+.box-icon, .card{
    background-color: #0dcaf0;
 }
 
@@ -25,3 +25,6 @@ nav img {
     width: 80%;
  }
 
+ #Destacados img {
+    max-height: 130px;
+ }
