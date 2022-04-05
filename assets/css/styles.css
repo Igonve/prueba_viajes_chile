@@ -24,6 +24,12 @@ nav img {
     max-height: 130px;
  }
 
- .box-icon, .card, .btn{
+ .box-icon, .card, .btn, #Footer{
     background-color: #0dcaf0;
  }
+
+#Footer a{
+    color: white;
+    text-decoration: none;
+
+}
