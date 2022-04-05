@@ -3,18 +3,13 @@ body{
     
 }
 
-.box-icon, .card{
-   background-color: #0dcaf0;
-}
-
-p , i , h4 {
+p , i , h4, form {
     color: white;
 }
 
 .box-icon{
     padding: 2px;
 }
-
 
 nav img {
     width: 25px;
@@ -27,4 +22,8 @@ nav img {
 
  #Destacados img {
     max-height: 130px;
+ }
+
+ .box-icon, .card, .btn{
+    background-color: #0dcaf0;
  }
