@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    
+}
+
+.box-icon{
+   background-color: #0dcaf0;
+}
+
+p , i , h4 {
+    color: white;
+}
+
+.box-icon{
+    padding: 2px;
+}
+
+
+nav img {
+    width: 25px;
+    height: 25px;
+ }
+
+ .width-80 {
+    width: 80%;
+ }
+
